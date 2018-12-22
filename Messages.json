@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "body": "Room {0} is now ready for you. Enjoy your stay, and let us know if you need anything!"
+  },
+  {
+    "id": 2,
+    "body": "Hello {0}. This is a reminder that your checkout time is {1}. Please have your room ready for checkout at this time\n"
+  },
+  {
+    "id": 3,
+    "body": "At {0}, we appreciate our customers. Feel free to come down anytime for information on the surrounding area"
+  },
+  {
+    "id": 4,
+    "body": "Hi {0}. Your checkin time is {1}. We'll have your room ready by then. Here at {2}, we pride ourselves on prompt service!"
+  }
+]
